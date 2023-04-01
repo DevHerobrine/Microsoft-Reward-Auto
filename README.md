@@ -2,7 +2,7 @@
 You lazy like me to do all search. And get all time false at quiz this for you.
 I make this simple extension for do auto you microsoft reward. Get reward now.
 
-#How to install
+# How to install
 1. Dowload the folder.
 Next extract all/extract all folder.
 ![image](https://user-images.githubusercontent.com/123895209/229296650-e4e68409-8f7c-49c4-a383-0751ed245704.png)
