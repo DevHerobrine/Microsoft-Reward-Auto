@@ -12,7 +12,7 @@ Next extract all/extract all folder.
 4. Go to load unpacked.
 ![image](https://user-images.githubusercontent.com/123895209/229296703-d09d7e0a-98a2-494c-8d79-975f5046236b.png)
 5. Select the folder you extracted before. You need the folder contain the files and not a folder.
-![image](https://user-images.githubusercontent.com/123895209/229297208-afe4f58a-9d9c-4d29-8c0d-ad8a45614a3e.png)
+![image](https://user-images.githubusercontent.com/123895209/229297261-65e9941d-696e-4c8f-baed-f3a749abac87.png)
 ![image](https://user-images.githubusercontent.com/123895209/229296714-874707d5-ee6e-47ee-8846-a1c3415a27c9.png)
 6. Its now finish you can't see it do only this simple step. Go to the extension logo. And make sure the its same thing of me. 
 ![image](https://user-images.githubusercontent.com/123895209/229296729-4d3ac5a5-12cb-476a-945b-8a45e4606da4.png)
