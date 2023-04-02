@@ -121,14 +121,6 @@ function reset(e) {
   saveChanges();
 }
 
-function openOptions(e) {
-  e.preventDefault(); // the open-options button is actually a link, so we don't want it to redirect
-  if (chrome.runtime.openOptionsPage) {
-    chrome.runtime.openOptionsPage();
-  } else {
-    window.open(chrome.runtime.getURL('options.html'));
-  }
-}
 
 // id is HTML id attribute
 // eventType is the type of event to listen for
@@ -143,9 +135,7 @@ const changeBindings = [
   { id: 'random-search-delay-min', eventType: 'input' },
   { id: 'random-search-delay-max', eventType: 'input' },
   { id: 'auto-click', eventType: 'change' },
-  { id: 'random-guesses', eventType: 'change' },
   { id: 'platform-spoofing', eventType: 'change' },
-  { id: 'blitz-search', eventType: 'change' },
   { id: 'reset', eventType: 'click', fn: reset },
   { id: 'stop', eventType: 'click', fn: stopSearches },
 ];
